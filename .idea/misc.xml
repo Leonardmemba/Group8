@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/drawable/button_selector.xml" value="0.1" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/drawable/login_edit_background.xml" value="0.1" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout-w1240dp/activity_uploading.xml" value="0.125" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.139453125" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.18" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_finish_upload.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_finish_uploading.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_homeNormal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_homePage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_registry.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_upload.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_uploading.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/activity_verification.xml" value="0.22" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/content_scrolling.xml" value="0.33" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/content_scrollingHome.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/content_scrolling_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/content_scrolling_homepage.xml" value="0.18" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/message_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/layout/upload.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/King Memba II/AndroidStudioProjects/Final/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
